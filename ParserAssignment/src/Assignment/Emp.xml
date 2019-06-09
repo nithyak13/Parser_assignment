@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AccountDet>
+<Account No="1">
+	<ACCID> 10001</ACCID>
+	<AccNum>100</AccNum>
+	<ACCTYPE>SAVINGS</ACCTYPE>
+	<BankName>XYZ</BankName>
+ 	<CUSTOMERDETAILS>
+	<FirstName>SAM</FirstName>
+	<LastName>KUMAR</LastName>
+	</CUSTOMERDETAILS>
+	<BALANCE>1000</BALANCE>
+</Account>
+<Account No="2">
+	<ACCID> 10002</ACCID>
+	<AccNum>200</AccNum>
+	<ACCTYPE>CHECKINGS</ACCTYPE>
+	<BankName>ABC</BankName>
+	<CUSTOMERDETAILS>
+		<FirstName>TOM</FirstName>
+		<LastName>CRAIG</LastName>
+		</CUSTOMERDETAILS>
+		<BALANCE>2000</BALANCE>
+</Account>
+<Account No="3">
+	<ACCID> 10003</ACCID>
+	<AccNum>300</AccNum>
+	<ACCTYPE>SAVINGS</ACCTYPE>
+	<BankName>BCD</BankName>
+	<CUSTOMERDETAILS>
+		<FirstName>SARA</FirstName>
+		<LastName>KRISH</LastName>
+		</CUSTOMERDETAILS>
+		<BALANCE>3000</BALANCE>
+</Account>
+</AccountDet>
